@@ -1,0 +1,16 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#personal-bookmarks .toolbarbutton-icon {
+  display:none !important;
+}
+
+#sidebar-box *, #bookmarksPanel *, #bookmarks-view *, #history-panel *, #historyTree { 
+  font-size: 14px !important;
+}
+
+#personal-bookmarks .bookmark-item {
+  font-size: 12px !important;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
